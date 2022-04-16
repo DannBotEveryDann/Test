@@ -5,5 +5,16 @@ git status
 visualisa los cambios
 
 git add test.txt
+Siempre debe ser tal cual es el archivo
 
 git commit -m "Primer Commit"
+Comentario para subir
+
+git config --list
+visualisa el entorno de la maquina de git
+
+git config --global user.name "Dann Bot"
+cambiamos el entorno del usuario de git
+
+git config --global user.email "@gmail.com"
+Colocamos el correo
