@@ -7,12 +7,6 @@ visualisa los cambios
 git add test.txt
 Siempre debe ser tal cual es el archivo
 
-git add .
-El punto toma todo del directorio
-
-git commit
-Es una interfaz que por el momento no usamos. Para salir esc shit zz
-
 git commit -m "Primer Commit"
 Comentario para subir
 
