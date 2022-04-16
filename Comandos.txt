@@ -1,0 +1,9 @@
+git init 
+Nos paramos en la carpeta desde git y ahi activamos el comonado...
+
+git status
+visualisa los cambios
+
+git add test.txt
+
+git commit -m "Primer Commit"
