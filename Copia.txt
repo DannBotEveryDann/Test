@@ -21,3 +21,5 @@ cambiamos el entorno del usuario de git
 
 git config --global user.email "@gmail.com"
 Colocamos el correo
+
+el comando checkout sirve para traer cambios del serv
