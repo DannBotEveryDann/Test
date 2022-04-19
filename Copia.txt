@@ -1,3 +1,6 @@
+cd documents/test/
+Vamos a la ruta donde tenemos el proyecto desde git
+
 git init 
 Nos paramos en la carpeta desde git y ahi activamos el comonado...
 

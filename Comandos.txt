@@ -24,3 +24,11 @@ cambiamos el entorno del usuario de git
 
 git config --global user.email "@gmail.com"
 Colocamos el correo
+
+git diff QWEQEW !"·!"·
+Diferencia entre uno y otro commit siempre colocar los vs de commit
+Lo mejor es colocar el mas antiguo de primeras
+
+Cap X
+
+
