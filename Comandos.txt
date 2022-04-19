@@ -63,3 +63,11 @@ git checkout "commit o codigo" archivo.extensionxD
 para volver al ultimo estado es 
 
 Git checkout master historia.txt
+
+Funciona XD
+
+Ahora para enviar al serv es con 
+Git push
+
+Para traer del serv al equipo:
+git pull
