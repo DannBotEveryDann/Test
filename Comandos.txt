@@ -48,5 +48,18 @@ HotFix
 
 CAP XI
 
+validar estados de log 
+Git log
+git log --stat
+
+
 git reset "nombre o codigo del commit" --hard
 Es peligroso ya que si devulve todo sin copia alguna a ese commit
+
+tambien podemos hacer algo genial con checkout.
+git checkout "commit o codigo" archivo.extensionxD
+ nos trae ese archivo en especifico
+
+para volver al ultimo estado es 
+
+Git checkout master historia.txt
