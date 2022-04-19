@@ -1,3 +1,6 @@
+cd documents/test/
+Vamos a la ruta donde tenemos el proyecto desde git
+
 git init 
 Nos paramos en la carpeta desde git y ahi activamos el comonado...
 
@@ -31,4 +34,19 @@ Lo mejor es colocar el mas antiguo de primeras
 
 Cap X
 
+el comando checkout sirve para traer cambios del serv
 
+************************************
+Comportamientos de las ramas en Git
+************************************
+Master
+***********
+Developments
+***********
+HotFix
+***********
+
+CAP XI
+
+git reset "nombre o codigo del commit" --hard
+Es peligroso ya que si devulve todo sin copia alguna a ese commit
