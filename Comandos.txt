@@ -71,3 +71,7 @@ Git push
 
 Para traer del serv al equipo:
 git pull
+
+***
+ramas
+Git branch "nombre de la rama"
