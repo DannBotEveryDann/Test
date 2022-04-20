@@ -75,3 +75,10 @@ git pull
 ***
 ramas
 Git branch "nombre de la rama"
+
+CAP 16
+
+Para hacer un merge hacemos los  cambios en otra rama difernte
+a Maste en este caso es Development, Con este mismo
+archivo. Ya con eso nos devolveremos a master y 
+Colocamos el comando: git merge Development
