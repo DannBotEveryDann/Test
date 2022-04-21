@@ -82,3 +82,23 @@ Para hacer un merge hacemos los  cambios en otra rama difernte
 a Maste en este caso es Development, Con este mismo
 archivo. Ya con eso nos devolveremos a master y 
 Colocamos el comando: git merge Development
+
+Funciona la prueba y continuamos con el curso :D
+
+Esto es para subir informacion al serv
+git remote add origin https://github.com/DannBotEveryDann/Test.git
+
+git push origin master
+
+Funciono y ya esta todo en Git, ahora vamos a 
+generar llaves ssh
+
+en git nos devolveremos a la ruta principal con CD y luego a 
+la ruta que nos indique solo la linea que se parece a la Ñ
+despues colocamos:
+
+ssh-keygen -t rsa -b 4096 -C "dcorreo@gmail.com"
+
+Validamos si el servicio de llaves SSH esta activo con:
+eval $(ssh-agent -s)
+y nos arroja el pid uwu
