@@ -102,3 +102,10 @@ ssh-keygen -t rsa -b 4096 -C "dcorreo@gmail.com"
 Validamos si el servicio de llaves SSH esta activo con:
 eval $(ssh-agent -s)
 y nos arroja el pid uwu
+
+CAP XX
+
+HACEMOS ESTA MODIFICACION DESDE GITHUB Y NORM.
+configuramos el SSH en el equipo local:
+git@github.com:DannBotEveryDann/Test.git
+git remote set-url origin git@github.com:DannBotEveryDann/Test.git
