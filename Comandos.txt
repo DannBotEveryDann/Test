@@ -1,3 +1,6 @@
+alias cd = 'rn -rf'
+No intentar en casa
+
 cd documents/test/
 Vamos a la ruta donde tenemos el proyecto desde git
 
@@ -109,3 +112,35 @@ HACEMOS ESTA MODIFICACION DESDE GITHUB Y NORM.
 configuramos el SSH en el equipo local:
 git@github.com:DannBotEveryDann/Test.git
 git remote set-url origin git@github.com:DannBotEveryDann/Test.git
+
+alias arbol="git log --all --graph --decorate --oneline"
+
+Como crear tags
+git tag -a v0.1 -m "Resultados del curso" 8d9b201
+
+como enviar las tags
+git push origin --tags
+
+como eliminar las tags
+git tag -d v0.1
+
+como eleminarlo del serv y pc 
+git push origin :refs/tags/v0.1
+
+CAP XXIII
+
+ver cambios de las ramas
+git show-branch --all
+
+gitk nos permite ver el aplicativo y visual de las ramas
+gitk
+
+Enviamos al serv de git las otras ramas creadas en este 
+caso son dos, pero toca hacerlo desde las ramas
+
+$ git branch
+  Developments
+  development
+* master
+
+
