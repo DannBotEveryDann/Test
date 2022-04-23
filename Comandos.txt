@@ -143,4 +143,6 @@ $ git branch
   development
 * master
 
+$ git checkout development
+git push origin development
 
