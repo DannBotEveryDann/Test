@@ -146,3 +146,7 @@ $ git branch
 $ git checkout development
 git push origin development
 
+desde master 
+git merge development
+git push origin master
+
