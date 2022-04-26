@@ -150,3 +150,14 @@ desde master
 git merge development
 git push origin master
 
+Como actualizar versiones mas nuevas
+validamos las entradas y salidas con 
+git remote -v
+
+gereamos una nueva entrada (fecth) upstream puede ser
+cualquier palabra
+git remote add upstream https:linksxd.git
+
+si necesitamos hacer un cambio git commit -am "Fusion"
+enviamos la informacion
+git push origin master

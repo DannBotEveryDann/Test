@@ -1,0 +1,10 @@
+cd documents/carpetaprueba/
+
+git init
+$ git config --global user.name "Dann Bot"
+$ git config --global user.email "@gmail.com"
+git remote add origin git@github.com:DannBotEveryDann/hyperblog.git
+git pull origin master
+git commit -am "Ingreso de mi seudonimo"
+git push origin master
+
