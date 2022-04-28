@@ -6,3 +6,31 @@ Experimento master 1
 Experimento master 2
 ********************
 
+**************
+Prueba en experimento 1
+***************
+Prueba en experimento 2
+***************
+Prueba en experimento 3
+***************
+Prueba en experimento 4
+***************
+
+ls -al
+git log --stat
+git add .
+git commit -m "Cap XXXV"
+git push origin master
+git branch experimento
+git checkout experimento
+git commit -am "Exp1"
+git commit -am "Exp2"
+git checkout master
+git checkout experimento
+git commit -am "Exp3"
+git checkout master
+git commit -am "Mas1"
+git checkout experimento
+
+git rebase master
+(Git rebase --abort)
