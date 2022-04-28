@@ -161,3 +161,7 @@ git remote add upstream https:linksxd.git
 si necesitamos hacer un cambio git commit -am "Fusion"
 enviamos la informacion
 git push origin master
+
+.......................
+
+Para ignorar algun archivo creamos .gitignore

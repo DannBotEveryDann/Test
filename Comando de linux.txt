@@ -1,0 +1,2 @@
+ls -al
+ve todos los documentos
