@@ -1,0 +1,4 @@
+Es muy bueno porque si necesitamos devolvernos rapido a la configuracion,
+que no hemos dañado o modificado. Podemos volver al HEAD, tambien esa modificacion la 
+podemos enviar a una rama con 
+git stach branch nombrerama y dejar como lo teniamos en HEAD

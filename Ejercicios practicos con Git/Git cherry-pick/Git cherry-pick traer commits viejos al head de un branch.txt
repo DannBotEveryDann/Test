@@ -1,0 +1,12 @@
+Git cherry-pick traer commits viejos al head de un branch
+
+Digamos tenemos el HEAD en master. 
+Ocurre un error y hacemos 3 cambios en otra rama. 
+usamos un stach.
+aprueban 1 en produccion y dejan 2 en code review.
+debemos pasar ese commit a master
+entonces usamos Git cherry-pick
+subimos cambios, despues con el tiempo aprueban los 2 commits faltantes
+y hacemos un merge para dejar todo en PROD
+.----------------
+Comandos usados
