@@ -1,0 +1,11 @@
+Git Reset y Reflog úsese en caso de emergencia
+
+la cagamos y debemos arreglar todo
+Elimnamos archivos ramas lo que sea
+git branch -D rama
+git commit -am "como devolvernos"
+--------------
+git reflog
+git reset --hard 97e55d9
+
+fin <3:D
